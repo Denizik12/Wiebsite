@@ -1,9 +1,9 @@
 {
     "name": "Calculator",
     "short_name": "Calculator",
-    "start_url": "https://mstefancich.github.io/calculator/",
-    "background_color": "#6dcdb1",
-    "theme_color": "#009578",
+    "start_url": "https://denizik12.github.io/Wiebsite/",
+    "background_color": "#BDCBFE",
+    "theme_color": "#293D87",
     "display": "standalone",
     "icons": [
         {
